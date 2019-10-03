@@ -1,2 +1,2 @@
 
-Repo for first project
+Repo for first hackathon project
